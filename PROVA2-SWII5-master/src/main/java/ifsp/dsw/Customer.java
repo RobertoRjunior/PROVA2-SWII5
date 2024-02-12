@@ -1,5 +1,5 @@
 package ifsp.dsw;
-//Stefany Tam e Eduarda Vitória
+//Roberto Junior
 
 public class Customer {
 	private int customer_id;
