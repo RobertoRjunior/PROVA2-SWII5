@@ -69,8 +69,7 @@ h2 {
 		<div align="center">
 			<h2>Desenvolvido por:</h2>
 			<ul class="credit-list">
-				<li><h2>Eduarda Vitória</h2></li>
-				<li><h2>Stefany Tam</h2></li>
+				<li><h2>Roberto Junior</h2></li>
 			</ul>
 		</div>
 	</div>
